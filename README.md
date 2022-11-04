@@ -1,0 +1,1 @@
+# action-super-linter-log-processor
